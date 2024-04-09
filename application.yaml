@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: policy/
-    repoURL: https://github.com/sanjeev-choudhary/gatekeeper-policy.git
+    repoURL: https://github.com/sanjeev-choudhary/kyverno-policy.git
     targetRevision: HEAD
     directory:
       recurse: true
